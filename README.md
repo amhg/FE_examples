@@ -24,10 +24,11 @@ Communicating with Parent Components (eventEmitter)
 https://stackblitz.com/edit/angular-ves4eh?file=src%2Fapp%2Frental-list%2Frental-list.component.ts 
 
 Putting all together Service & Component
-#
+
 https://stackblitz.com/edit/angular-sfreea?file=src%2Fapp%2Fmy-flop-chooser.service.ts 
 
-Practice
+Practice: Putting all together Service & Component
+
 https://stackblitz.com/edit/angular-mmd1cs?file=src%2Fapp%2Fapp.component.ts
 
 
