@@ -1,0 +1,9 @@
+Forms
+
+Template-Driven Form
+- submit button
+- display list
+https://stackblitz.com/edit/thinkster-v2qb3z-6tn9js?file=src%2Fapp%2Fflop-suggestion%2Fflop-suggestion.component.ts
+
+Example: Select, Radio Buttons and Check buttons > to update model
+https://stackblitz.com/edit/thinkster-v2qb3z-njpfzg?file=src%2Fapp%2Fflop-suggestion%2Fflop-suggestion.component.ts
