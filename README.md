@@ -34,4 +34,4 @@ https://stackblitz.com/edit/angular-mmd1cs?file=src%2Fapp%2Fapp.component.ts
 
 Using ngFor with Child Components (explain)
 https://thinkster.io/tutorials/fundamentals-of-angular-displaying-data/using-ngfor-with-child-components
-Practice:https://stackblitz.com/edit/angular-ivy-wdfzzs?file=src%2Fapp%2Fapp.component.html
+Practice: https://stackblitz.com/edit/angular-ivy-wdfzzs?file=src%2Fapp%2Fapp.component.html
