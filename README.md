@@ -38,3 +38,8 @@ Practice: https://stackblitz.com/edit/angular-ivy-wdfzzs?file=src%2Fapp%2Fapp.co
 
 Solution: Displaying a List (adding colors: bleu,green,red)
 https://stackblitz.com/edit/angular-6hqfrp?file=src%2Fapp%2Fapp.component.html
+
+
+Solution:Conditional Display
+https://stackblitz.com/edit/angular-u5dydb?file=src%2Fapp%2Frental-list%2Frental-list.component.html
+
