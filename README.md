@@ -35,3 +35,6 @@ https://stackblitz.com/edit/angular-mmd1cs?file=src%2Fapp%2Fapp.component.ts
 Using ngFor with Child Components (explain)
 https://thinkster.io/tutorials/fundamentals-of-angular-displaying-data/using-ngfor-with-child-components
 Practice: https://stackblitz.com/edit/angular-ivy-wdfzzs?file=src%2Fapp%2Fapp.component.html
+
+Solution: Displaying a List (adding colors: bleu,green,red)
+https://stackblitz.com/edit/angular-6hqfrp?file=src%2Fapp%2Fapp.component.html
