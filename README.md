@@ -44,6 +44,7 @@ Solution:Conditional Display
 https://stackblitz.com/edit/angular-u5dydb?file=src%2Fapp%2Frental-list%2Frental-list.component.html
 
 ## Exercise: Display Data
+```
 Display the complete list of watch items.
 Fix all display issues by using pipes.
 Implement swapping items when the up or down arrow is clicked
@@ -52,6 +53,7 @@ Have no down arrow on the last item
 Items that are on sale (onSale property set to true) should be indicated using the bg-success class
 Set the document title to show the # of items in the watch list
 Bonus Challenge - Only show 4 movies and have a "show all" button that disappears after it is clicked.
+```
 
 https://stackblitz.com/edit/angular-fyzx3l?file=src%2Fapp%2Fapp.component.html
 
