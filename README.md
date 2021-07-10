@@ -43,7 +43,7 @@ https://stackblitz.com/edit/angular-6hqfrp?file=src%2Fapp%2Fapp.component.html
 Solution:Conditional Display
 https://stackblitz.com/edit/angular-u5dydb?file=src%2Fapp%2Frental-list%2Frental-list.component.html
 
-# Exercise: Display Data
+## Exercise: Display Data
 Display the complete list of watch items.
 Fix all display issues by using pipes.
 Implement swapping items when the up or down arrow is clicked
