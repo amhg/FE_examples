@@ -13,3 +13,6 @@ https://stackblitz.com/edit/angular-ivy-jevtd7?file=src%2Fapp%2Fhero-form%2Fhero
 
 ##Reactive Form
 https://stackblitz.com/edit/angular-ivy-jevtd7?file=src%2Fapp%2Fhero-form%2Fhero-form.component.ts
+
+##reactive wip
+https://stackblitz.com/fork/angular-ivy?file=src%2Fapp%2Fprofile-editor%2Fprofile-editor.component.ts
