@@ -10,3 +10,6 @@ https://stackblitz.com/edit/thinkster-v2qb3z-njpfzg?file=src%2Fapp%2Fflop-sugges
 
 ##wip
 https://stackblitz.com/edit/angular-ivy-jevtd7?file=src%2Fapp%2Fhero-form%2Fhero-form.component.html
+
+##Reactive Form
+https://stackblitz.com/edit/angular-ivy-jevtd7?file=src%2Fapp%2Fhero-form%2Fhero-form.component.ts
