@@ -17,7 +17,7 @@ npm install --save remove-trailing-spaces
 TSLint get rid of missing-whitespace
 remove the check-type option from your tslint.json file.
 
-Communicate with Child (who owns the Data)
+Communicate with Child (who owns the Data) @Input/@Output
 https://stackblitz.com/edit/angular-7ztsmz?file=src%2Fapp%2Fapp.component.ts
 
 Communicating with Parent Components (eventEmitter)
