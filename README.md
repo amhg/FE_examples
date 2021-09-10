@@ -31,6 +31,19 @@ Practice: Putting all together Service & Component
 
 https://stackblitz.com/edit/angular-mmd1cs?file=src%2Fapp%2Fapp.component.ts
 
+# Observable
+
+## Exercise 1:
+of()
+
+Log out the actor's name from the oActor observable
+Modify the data in the stream before the subscribe
+Set the name property of the component to the data in the Name observable
+Get the flops out of the oFlops observable and get them to display on the screen
+Hint: look in the app.component.html for what is needed
+
+https://stackblitz.com/edit/angular-pvwqcm?file=src%2Fapp%2Fapp.component.ts
+
 
 Using ngFor with Child Components (explain)
 https://thinkster.io/tutorials/fundamentals-of-angular-displaying-data/using-ngfor-with-child-components
