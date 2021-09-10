@@ -44,6 +44,7 @@ Hint: look in the app.component.html for what is needed
 
 https://stackblitz.com/edit/angular-pvwqcm?file=src%2Fapp%2Fapp.component.ts
 
+##
 
 Using ngFor with Child Components (explain)
 https://thinkster.io/tutorials/fundamentals-of-angular-displaying-data/using-ngfor-with-child-components
