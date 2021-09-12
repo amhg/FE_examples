@@ -1,0 +1,10 @@
+## HTTP Request
+
+### GET, POST
+https://stackblitz.com/edit/angular-5sm9va?file=src%2Fapp%2Fmovie.service.ts 
+
+### QueryString params
+-async pipe (flops$) let flop of flops$ | async
+
+https://stackblitz.com/edit/angular-5sm9va?file=src%2Fapp%2Fmovie.service.ts
+
