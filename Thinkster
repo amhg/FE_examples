@@ -19,5 +19,5 @@ https://stackblitz.com/edit/angular-hcpfir?file=src%2Fapp%2Fapp.component.ts
 Using routerLink and redirectTo
 https://stackblitz.com/edit/angular-4v7rb7?file=src%2Fapp%2Fapp.module.ts
 
-Using a ref:
+Using <a ref/>:
 https://stackblitz.com/edit/angular-b5hgxc?file=src%2Fapp%2Fapp.module.ts
