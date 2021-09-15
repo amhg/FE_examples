@@ -1,0 +1,21 @@
+## list dependencies
+
+npm ls bootstrap
+
+## install
+npm install @ngx-translate/http-loader@6 --save
+npm install @angular/cdk@10 --save  
+npm install @ngx-translate/core@13 --save   
+
+npm uninstall fast-json-stable-stringify --save-dev
+
+## update
+npm update eventemitter3@4.0.7 --depth 1
+npm update eventemitter3@4.0.7 --depth 2
+
+npm update extend@3.0.2 --depth 2 
+npm update extend@3.0.2 --dev  
+
+## uninstall
+
+npm uninstall fs --save 
