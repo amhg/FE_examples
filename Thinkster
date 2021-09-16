@@ -27,3 +27,7 @@ https://stackblitz.com/edit/angular-b5hgxc?file=src%2Fapp%2Fapp.module.ts
   
   Array Syntax:
   <a [routerLink]="['/users', user.id, 'Anna']">Load Ana (10)</a>
+
+Routing: with :id and reading params from the request 
+
+https://stackblitz.com/edit/angular-fun-routed-app-udvsbx?file=src%2Fapp%2Fflop-list%2Fflop-list.component.html
