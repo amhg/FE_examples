@@ -24,3 +24,6 @@ https://stackblitz.com/edit/angular-b5hgxc?file=src%2Fapp%2Fapp.module.ts
 
 
   <a class="nav-link" routerLink="{{'/actors/' + actor.id}}"></a>
+  
+  Array Syntax:
+  <a [routerLink]="['/users', user.id, 'Anna']">Load Ana (10)</a>
