@@ -31,3 +31,9 @@ https://stackblitz.com/edit/angular-b5hgxc?file=src%2Fapp%2Fapp.module.ts
 Routing: with :id and reading params from the request 
 
 https://stackblitz.com/edit/angular-fun-routed-app-udvsbx?file=src%2Fapp%2Fflop-list%2Fflop-list.component.html
+
+## Pluck
+
+    oActor.pipe(pluck('name')).subscribe((actor) => {
+      console.log(actor);
+    });
